@@ -6,12 +6,6 @@ A simple web-based Recipe Application that allows users to browse, search, and m
 
 [View Live Demo](https://cook-find.netlify.app/)
 
-## Preview
-
-<p align="center">
-  <img src="https://res.cloudinary.com/dpywncjnh/image/upload/v1750343436/Barun_sArt_valakq.png" alt="Recipe App Screenshot" width="300"/>
-</p>
-
 ## Features
 
 - Browse a list of recipes
