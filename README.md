@@ -1,6 +1,6 @@
 # Recipe-App
 
-A simple web-based Recipe Application that allows users to browse, search, and manage their favorite recipes. This project is designed to be lightweight and easy to use, making it perfect for cooking enthusiasts and students learning web development.
+A simple web-based Recipe Application that allows users to browse, search, and manage their favorite recipes. This project is designed to be lightweight and easy to use..
 
 ## Demo Link
 
